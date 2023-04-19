@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #add8e6; /* Light blue color code */
+}
+
+header {
+    background-color: #56a0d3; /* Carolina blue color code */
+    color: #fff; /* Text color for header */
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff; /* Text color for navigation links */
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333; /* Footer background color */
+    color: #fff; /* Text color for footer */
+    padding: 10px;
+    text-align: center;
+}
